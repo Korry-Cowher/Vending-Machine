@@ -1,1 +1,1 @@
-
+Developed a command line application and used File I/O for logging and tracking sales while implementing the Object Oriented fundamentals of encapsulation, inheritance, and polymorphism. Created a series of JUnit tests to ensure functionality and operation of application.
